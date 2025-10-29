@@ -23,6 +23,7 @@
 ## Papers
 
 * [Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Index and Verified AgentFacts](https://arxiv.org/abs/2507.14263) : Proposes a NANDA Index and “AgentFacts” to enable discovery and trust for Internet-scale agents (2025).
+* [AgentDNS: A Root Domain Naming System for LLM Agents](https://arxiv.org/abs/2505.22368v1): AgentDNS, a root domain naming and service discovery system designed to enable LLM agents to autonomously discover, resolve, and securely invoke third-party agent and tool services across organizational and technological boundaries.
 * [A Novel Zero-Trust Identity Framework for Agentic AI](https://arxiv.org/abs/2505.19301) : Outlines a zero-trust identity architecture tailored to autonomous agents (2025).
 * [A Survey of AI Agent Protocols](https://arxiv.org/abs/2504.16736) : Systematic review of emerging protocols for agent communication and coordination (2025).
 * [Why Do Multi-Agent LLM Systems Fail?](https://arxiv.org/abs/2503.13657) : Taxonomy and failure modes of multi-agent LLM systems, with evaluation guidance (2025).
