@@ -20,7 +20,6 @@
 * [W3C AI KR CG](https://www.w3.org/groups/cg/aikr) — Knowledge representation for AI
 * [Open Source AI Agent Projects](https://github.com/e2b-dev/awesome-ai-agents?tab=readme-ov-file#open-source-projects) — Curated open source agent projects
 
-
 ## Papers
 
 * [Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Index and Verified AgentFacts](https://arxiv.org/abs/2507.14263) : Proposes a NANDA Index and “AgentFacts” to enable discovery and trust for Internet-scale agents (2025).
@@ -47,14 +46,23 @@
 
 * [AI Alliance](https://thealliance.ai/)
 
-## Use Cases
+## Agentic Commerce
 
-### Agentic Commerce
-*(expand with scenarios such as autonomous shopping agents, negotiation agents, supply-chain agents, etc.)*
+- [AstraSync](https://astrasync.ai/) : Know your agent for commerce
+- [KYAPAY](https://www.kyapay.ai/) : Know your agent for commerce. 
+- [AP2](https://github.com/google-agentic-commerce/AP2) : Protocol that relies on mandates for commerce.
+- [Mastercard Agent Pay](https://www.mastercard.com/us/en/business/artificial-intelligence/mastercard-agent-pay.html) - Full suite of software for agents payments.
+- [x402](https://www.x402.org/): An open protocol for internet-native payments
+- [Visa Trusted Agent](https://developer.visa.com/capabilities/trusted-agent-protocol/overview) : Payment protocol given by Visa
+- [Stripe/ACP]([https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce](https://docs.stripe.com/agentic-commerce/protocol)) : Agentic Commerce Protocol (ACP) is an open-source specification that enables commerce between compatible applications, such as ChatGPT, and sellers. You can implement it as a RESTful interface or MCP server.
+- [Agents x Law With CodeX](https://www.dazzagreenwood.com/p/ai-agents-x-law-initiative) : Workshops held at Stanford on Agentic Transactions and liability under Uniform Electronics Transaction Act.
+- [Agentic Commerce Protocol](https://www.agenticcommerce.dev/) : An open standard for programmatic commerce flows between buyers, AI agents, and businesses.
 
 ## Protocols & Implementations
 
 * **A2A Protocol** — [GitHub](https://github.com/a2aproject/A2A)
+* **ANP** - [Github](https://github.com/agent-network-protocol/AgentNetworkProtocol)
+* **ACP** - [Website](https://www.ibm.com/think/topics/agent-communication-protocol)
 * **Model Context Protocol (MCP)** — [Spec](https://modelcontextprotocol.io) · [Org](https://github.com/modelcontextprotocol)
 * **NLWeb** — [Toolkit](https://github.com/nlweb-ai/NLWeb)
 * **Human Context Protocol** — [Website](https://humancontextprotocol.com/)
@@ -71,6 +79,7 @@
 * **Awesome AI Tools** — <https://github.com/mahseema/awesome-ai-tools>
 * **Awesome Proof of Personhood** — <https://github.com/andorsk/awesome-proof-of-personhood>
 * **Aweseome AI Security** - <https://github.com/TalEliyahu/Awesome-AI-Security>
+* **Awesome Agentic AI** - <https://github.com/priyanshujiiii/awesome_Agentic_AI>
 
 ## Videos
 
@@ -92,8 +101,6 @@
 * **CAMEL** — <https://github.com/lightaime/camel> — Cooperative role-play agents for task-solving via dialog.
 * **OpenDevin (Open Agents)** — <https://github.com/OpenDevin/OpenDevin> — Dev-oriented autonomous coding agents in a controlled OS-like environment.
 * **BabyAGI** — <https://github.com/yoheinakajima/babyagi> — Minimal autonomous task-loop scaffold (generate-prioritize-execute).
-
----
 
 ## Libraries
 
