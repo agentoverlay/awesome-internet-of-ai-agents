@@ -72,6 +72,8 @@
 * **Trust Spanning Protocol (TSP)** — Whitepaper (2025) [PDF](https://trustoverip.org/wp-content/uploads/TSP_-Strengthening-Trust-in-Human-and-AI-Interactions.pdf)
 * **GNAP (IETF):** [RFC 9635](https://datatracker.ietf.org/doc/rfc9635/), [RFC 9767](https://datatracker.ietf.org/doc/rfc9767)
 * **OAuth 2.0:** [RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749)
+* **ERC 8004:** [ERC 8004](https://eips.ethereum.org/EIPS/eip-8004)
+* **[JLINC](https://jlinc.org/)** : JLINC is an open protocol for sharing data protected by an agreement on the terms under which the data is being shared.
 
 ## Supplementary Awesome Lists
 
