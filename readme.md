@@ -3,7 +3,15 @@
 > **WIP:** This list is under active development. Contributions welcome via PRs and issues.  
 > A curated list of components for the **Agentic Web** – where AI agents autonomously interact, collaborate, and transact.
 
----
+## Supplementary Awesome Lists
+
+* **Awesome Trust Registries** — <https://github.com/andorsk/awesome-trust-registries>
+* **Awesome Confidential Computing** — <https://github.com/bpradipt/awesome-confidential-computing>
+* **Awesome AI Tools** — <https://github.com/mahseema/awesome-ai-tools>
+* **Awesome Proof of Personhood** — <https://github.com/andorsk/awesome-proof-of-personhood>
+* **Aweseome AI Security** - <https://github.com/TalEliyahu/Awesome-AI-Security>
+* **Awesome Agentic AI** - <https://github.com/priyanshujiiii/awesome_Agentic_AI>
+* **Awesome Web Agents** - <https://github.com/steel-dev/awesome-web-agents>
 
 ## Open Working Groups
 
@@ -74,15 +82,6 @@
 * **OAuth 2.0:** [RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749)
 * **ERC 8004:** [ERC 8004](https://eips.ethereum.org/EIPS/eip-8004)
 * **[JLINC](https://jlinc.org/)** : JLINC is an open protocol for sharing data protected by an agreement on the terms under which the data is being shared.
-
-## Supplementary Awesome Lists
-
-* **Awesome Trust Registries** — <https://github.com/andorsk/awesome-trust-registries>
-* **Awesome Confidential Computing** — <https://github.com/bpradipt/awesome-confidential-computing>
-* **Awesome AI Tools** — <https://github.com/mahseema/awesome-ai-tools>
-* **Awesome Proof of Personhood** — <https://github.com/andorsk/awesome-proof-of-personhood>
-* **Aweseome AI Security** - <https://github.com/TalEliyahu/Awesome-AI-Security>
-* **Awesome Agentic AI** - <https://github.com/priyanshujiiii/awesome_Agentic_AI>
 
 ## Videos
 
