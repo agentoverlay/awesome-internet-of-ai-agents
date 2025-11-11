@@ -27,6 +27,8 @@
 * [W3C AI Agent Protocol CG](https://www.w3.org/groups/cg/agentprotocol) — Interop protocols for agents
 * [W3C AI KR CG](https://www.w3.org/groups/cg/aikr) — Knowledge representation for AI
 * [Open Source AI Agent Projects](https://github.com/e2b-dev/awesome-ai-agents?tab=readme-ov-file#open-source-projects) — Curated open source agent projects
+* [W3C Web Machine Learning](https://www.w3.org/groups/wg/webmachinelearning/) : The mission of the Web Machine Learning Working Group is to develop APIs for enabling efficient machine learning inference in the browser.
+* [W3C Web Agents](https://www.w3.org/community/webagents/) : This community group is interested in the design of Web-based Multi-Agent Systems (MAS) for the deployment of world-wide hybrid communities of people and artificial agents on the Web.
 
 ## Papers
 
