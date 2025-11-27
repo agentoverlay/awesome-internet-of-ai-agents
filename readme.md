@@ -12,6 +12,7 @@
 * **Aweseome AI Security** - <https://github.com/TalEliyahu/Awesome-AI-Security>
 * **Awesome Agentic AI** - <https://github.com/priyanshujiiii/awesome_Agentic_AI>
 * **Awesome Web Agents** - <https://github.com/steel-dev/awesome-web-agents>
+* **Awesome Agent Context** - <https://github.com/Meirtz/Awesome-Context-Engineering>
 
 ## Open Working Groups
 
