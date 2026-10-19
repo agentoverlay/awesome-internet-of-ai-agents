@@ -60,6 +60,7 @@
 
 ## Agentic Commerce
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) : Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - [AstraSync](https://astrasync.ai/) : Know your agent for commerce
 - [KYAPAY](https://www.kyapay.ai/) : Know your agent for commerce. 
 - [AP2](https://github.com/google-agentic-commerce/AP2) : Protocol that relies on mandates for commerce.
